@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Janhvi Kumari
+# 👋 Hi, I'm Janhvi
 
 🎓 CSE Undergraduate | 💻 Tech Enthusiast | 🌱 Lifelong Learner
 
