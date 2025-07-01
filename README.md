@@ -47,7 +47,7 @@ Currently doing a **Python & ML Internship** to level up my skills and contribut
 - Beginner-friendly, minimal dependencies
 - Designed for self-paced logical thinking  
 👥 Built by the CodePhantom Organization  
-🔗 [View Repository](https://github.com/CodePhantom/CodePhantom)
+🔗 [View Repository](https://github.com/Team-CodePhantom/CodePhantom)
 
 - 📊 **ML Mini Projects** — Under development...
 - 🎨 **Frontend Pages** — Simple UIs for practice & ideas
