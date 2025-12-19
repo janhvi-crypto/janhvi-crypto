@@ -1,104 +1,77 @@
-👋 Hi, I'm Janhvi
+# 👋 Hi, I'm Janhvi  
 
-🎓 CSE Undergraduate | 💻 Tech Enthusiast | 🌱 Lifelong Learner
+🎓 CSE Undergraduate | 💻 Tech Enthusiast | 🌱 Lifelong Learner  
 
-🚀 About Me
+---
 
-I'm a passionate Computer Science student with hands-on experience in building real-world systems. My interests include:
+## 🚀 About Me  
 
-🧠 Machine Learning & Python
+I'm a passionate Computer Science student with hands-on experience in building real-world systems. My interests include:  
+- 🧠 Machine Learning & Python  
+- 🌐 Web Development (HTML, CSS, JavaScript)  
+- 🔐 Problem Solving with C++  
+- 💡 IoT, ML-based systems & Hackathons  
 
-🌐 Web Development (HTML, CSS, JavaScript)
+Currently completed a **Python & Machine Learning Internship**, where I worked on applied ML research and model interpretability.
 
-🔐 Problem Solving with C++
+---
 
-💡 IoT, ML-based systems & Hackathons
+## 🛠️ Tech Stack  
 
-Currently completed a Python & Machine Learning Internship, where I worked on applied ML research and model interpretability.
+- **Languages:** Python, C++, C, HTML, CSS, JavaScript  
+- **ML & Data:** NumPy, Pandas, scikit-learn, Matplotlib, OpenCV  
+- **Tools & Platforms:** Git, GitHub, VS Code, Arduino IDE, ThingSpeak  
+- **Concepts:** Machine Learning, Data Preprocessing, Model Evaluation, Explainable AI (SHAP), IoT Systems  
+- **Exposure:** TypeScript (used in projects)
 
-🛠️ Tech Stack
+---
 
-Languages: Python, C++, C, HTML, CSS, JavaScript
+## 📂 Featured Projects  
 
-ML & Data: NumPy, Pandas, scikit-learn, Matplotlib, OpenCV
+### 🌿 EcoVerse  
+Offline, voice-powered AI climate coach built during **Code for Bharat Hackathon**.  
+- Fully offline voice input (Hindi + English)  
+- Personalized AI-style sustainability tips  
+- Speech + text output with local language support  
 
-Tools & Platforms: Git, GitHub, VS Code, Arduino IDE, ThingSpeak
+🔗 https://github.com/TeamEcoVerse/EcoVerse  
 
-Concepts: Machine Learning, Data Preprocessing, Model Evaluation, Explainable AI (SHAP), IoT Systems
+---
 
-Exposure: TypeScript (used in projects)
+### 🏙️ SheharFix — AI-Enabled Civic Issue Reporting System  
+Developed for **Smart India Hackathon (SIH)**.  
+- Image-based civic complaint system for **garbage-related issues**  
+- ML-based image verification and categorization  
+- End-to-end integration tested on **local host**  
 
-📂 Featured Projects
-🌿 EcoVerse
+🏆 Shortlisted among **Top 50 teams** (college internal round)  
+🔗 https://github.com/janhvi-crypto/SheharFix  
 
-EcoVerse is an offline, voice-powered AI climate coach created during the Code for Bharat Hackathon to promote climate action across rural and urban India.
-🛠 Built using Python and HTML/CSS without external frameworks or APIs.
+---
 
-Key Features:
+### 👶 Smart Baby Monitoring System — IoT-based Web Dashboard  
+IoT system to monitor baby’s environment and notify parents.  
+- ESP32-based multi-sensor monitoring (temperature, humidity, air quality, sound, motion)  
+- ThingSpeak API integration for real-time data visualization  
+- Parent notification based on safety thresholds  
 
-Fully offline voice input (Hindi + English)
+🔗 https://github.com/janhvi-crypto/baby-guardian-pro
 
-Personalized AI-style tips for eco-friendly living
+---
 
-Speech + text output with local language support
+### 👨‍💻 CodePhantom  
+Logic-based interactive platform to practice Data Structures and Algorithms.  
+- Python & C++ CLI-based challenges  
+- Beginner-friendly, gamified learning  
 
-👥 Built by Team EcoVerse
-🔗 View Repository
+🔗 https://github.com/Team-CodePhantom/CodePhantom  
 
-🏙️ SheharFix — AI-Enabled Civic Issue Reporting System
+---
 
-SheharFix is an AI-enabled civic issue reporting platform developed for the Smart India Hackathon (SIH).
+## 🤝 Connect With Me  
 
-Key Highlights:
+- ✉️ Email: davjanhvi9d17@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/janhvi-kumari-81b917327  
+- 🌐 Portfolio: Coming soon...
 
-Allows citizens to upload images and register complaints for garbage-related civic issues
 
-Implements an ML-based image verification module to validate and categorize reported issues
-
-End-to-end integration of frontend, backend, database, and ML inference
-
-Fully tested on a local host environment
-
-🏆 Shortlisted among the Top 50 teams at SIH internal college round
-🔗 Repository link coming soon
-
-👶 Smart Baby Monitoring System — IoT-based Web Dashboard
-
-An IoT-based system designed to monitor a baby’s environment and notify parents about safety conditions.
-
-Key Highlights:
-
-Uses ESP32 and multiple sensors to track temperature, humidity, air quality, sound, and motion
-
-Backend integrated with ThingSpeak cloud platform via API keys
-
-Displays real-time and historical sensor data on a web dashboard
-
-Notification logic to alert parents/guardians when values cross safety thresholds
-
-🛠 Built as an IoT mini project with scope for future extension
-🔗 Repository link coming soon
-
-👨‍💻 CodePhantom
-
-CodePhantom is a logic-based interactive platform designed to help beginners master Data Structures and Algorithms.
-🧠 Built in Python and C++ for CLI-based interaction.
-
-Key Features:
-
-Gamified DSA problems with real-time feedback
-
-Beginner-friendly design with minimal dependencies
-
-Focused on logical thinking and fundamentals
-
-👥 Built by the CodePhantom Organization
-🔗 View Repository
-
-🤝 Connect With Me
-
-✉️ Email: davjanhvid17@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/janhvi-kumari-81b917327
-
-🌐 Portfolio: Coming soon...
