@@ -65,7 +65,7 @@ A personal, ad-free music player built as a **Progressive Web App (PWA)**.
 - Media Session API integration for lock-screen and background playback controls  
 - Clean and responsive UI for smooth listening experience  
 
-🔗 https://github.com/janhvi-crypto/PookieRhythms  
+🔗 https://github.com/janhvi-crypto/Pookie-Rhythms 
 
 ---
 
