@@ -55,7 +55,17 @@ IoT system to monitor baby’s environment and notify parents.
 - ThingSpeak API integration for real-time data visualization  
 - Parent notification based on safety thresholds  
 
-🔗 https://github.com/janhvi-crypto/baby-guardian-pro
+🔗 https://github.com/janhvi-crypto/baby-guardian-pro  
+
+---
+
+### 🎵 PookieRhythms — PWA-based Personal Music Player  
+A personal, ad-free music player built as a **Progressive Web App (PWA)**.  
+- Installable PWA with manifest support  
+- Media Session API integration for lock-screen and background playback controls  
+- Clean and responsive UI for smooth listening experience  
+
+🔗 https://github.com/janhvi-crypto/PookieRhythms  
 
 ---
 
@@ -73,5 +83,3 @@ Logic-based interactive platform to practice Data Structures and Algorithms.
 - ✉️ Email: davjanhvi9d17@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/janhvi-kumari-81b917327  
 - 🌐 Portfolio: Coming soon...
-
-
