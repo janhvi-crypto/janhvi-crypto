@@ -68,6 +68,19 @@ A personal, ad-free music player built as a **Progressive Web App (PWA)**.
 🔗 https://github.com/janhvi-crypto/Pookie-Rhythms 
 
 ---
+### 📊 Algorithm Visualizer — Sorting & Complexity Analysis
+
+An interactive web-based tool to visualize how common sorting algorithms work internally, built to strengthen understanding of algorithm behavior and time complexity.
+
+**Key Highlights**
+- Implemented step-by-step visual animations for Bubble Sort, Selection Sort, and Insertion Sort  
+- Enables users to observe comparisons, swaps, and algorithm progression in real time  
+- Focuses on clarity of algorithm flow rather than theoretical explanations  
+
+**Tech Stack**
+- TypeScript, Tailwind CSS.
+🔗https://github.com/janhvi-crypto/algorithm-explorer
+---
 
 ### 👨‍💻 CodePhantom  
 Logic-based interactive platform to practice Data Structures and Algorithms.  
