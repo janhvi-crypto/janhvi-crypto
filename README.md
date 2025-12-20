@@ -79,6 +79,7 @@ An interactive web-based tool to visualize how common sorting algorithms work in
 
 **Tech Stack**
 - TypeScript, Tailwind CSS.
+
 🔗https://github.com/janhvi-crypto/algorithm-explorer
 ---
 
