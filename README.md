@@ -58,6 +58,14 @@ IoT system to monitor baby’s environment and notify parents.
 🔗 https://github.com/janhvi-crypto/baby-guardian-pro  
 
 ---
+###🌙 MoonMuse
+Aesthetic self-care and wellness web app designed as a calming digital safe space.
+-Mood tracking, journaling, and memory collection
+-Music room, vision board, and daily reflection features
+-Relaxing immersive UI focused on emotional wellness and mindfulness
+
+🔗https://github.com/janhvi-crypto/MoonMuse
+---
 
 ### 🎵 PookieRhythms — PWA-based Personal Music Player  
 A personal, ad-free music player built as a **Progressive Web App (PWA)**.  
