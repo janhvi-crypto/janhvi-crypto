@@ -64,6 +64,9 @@ Aesthetic self-care and wellness web app designed as a **Calming digital safe sp
 - Music room, vision board, and daily reflection features
 - Relaxing immersive UI focused on emotional wellness and mindfulness
 
+Disclaimer : This is small scale deployment only. for large scale deployment, always use royalty free music track.
+Deployed Link: https://moonmuses.vercel.app/
+
 🔗https://github.com/janhvi-crypto/MoonMuse
 
 ---
