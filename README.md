@@ -65,6 +65,7 @@ Aesthetic self-care and wellness web app designed as a **Calming digital safe sp
 - Relaxing immersive UI focused on emotional wellness and mindfulness
 
 🔗https://github.com/janhvi-crypto/MoonMuse
+
 ---
 
 ### 🎵 PookieRhythms — PWA-based Personal Music Player  
